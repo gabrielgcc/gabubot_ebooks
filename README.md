@@ -13,6 +13,6 @@ Una vez ya tengas tu bot entra en papel este repositiorio.
 
 1. Modifica `local_settings.py` de la siguiente forma: las variables relacionadas con la API de Twitter deberan de estar formateadas tal que pongas **directamente** el valor que requiera de tener. Por ejemplo, `MY_CONSUMER_KEY = 'aqui va tu consumer key'` y asi con las 3 restantes.
 
-2. Descarga o copia el script de bash que hay en este repositorio y modifica el valor numerico despues del sleep con la cantidad de segundos que quieres esperar entre tweet y tweet.
+2. Descarga o copia el script de bash que hay en este repositorio, muevelo a la carpeta de tu bot y modifica el valor numerico despues del sleep con la cantidad de segundos que quieres esperar entre tweet y tweet.
 
 3. Ejecuta con bash el script en cuestion y ya estara funcionando tu bot. Para Linux/macOS `bash timer.sh` o simplemente `./timer.sh`. Para Windows probablemente necesites descargar e instalar bash de alguna.
