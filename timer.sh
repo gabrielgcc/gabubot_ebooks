@@ -3,5 +3,5 @@
 while :
 do
 	python ebooks.py
-	sleep 15
+	sleep 1800
 done
