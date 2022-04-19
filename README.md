@@ -5,9 +5,11 @@
 
 Esta pretende ser una guia para auto hostear este bot en una maquina en lugar de en algun servicio de hosting en la nube de los muchos que hay en internet. Si no puedes permitirte usar un ordenador para alojar tu bot lo mas efectivo es que sigas entonces el metodo tradicional de la rama principal del repositorio original. 
 
-De cualquier forma **vas a necesitar este repositorio si o si** pues es el codigo fuente del bot, sigue las instrucciones tal y como lo indican ellos:
+De cualquier forma **vas a necesitar este repositorio si o si**
 
 https://github.com/tommeagher/heroku_ebooks
+
+pues es el codigo fuente del bot, sigue las instrucciones tal y como lo indican ellos:
 
 Una vez ya tengas tu bot entra en papel este repositiorio.
 
